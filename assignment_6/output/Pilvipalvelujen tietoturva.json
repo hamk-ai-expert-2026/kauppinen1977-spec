@@ -1,0 +1,55 @@
+{
+  "title": "Pilvipalvelujen tietoturva",
+  "abstract": "Pilvipalvelujen tietoturva on keskeinen haaste digitaalisen palvelun hyödyntämisessä. Tutkimukset osoittavat, että tietoturvan ja tietosuojan rakentaminen asiantuntijoiden toimesta sekä säännölliset päivitykset ovat välttämättömiä ehtoja digitaalisten palvelujen turvalliseen käyttöön. Tässä artikkelissa tarkastellaan pilvipalvelujen tietoturvaa erityisesti sosiaali- ja terveydenhuollon näkökulmasta.",
+  "introduction": [
+    "Pilvipalvelut ovat yleistyneet sosiaali- ja terveydenhuollon alalla, mikä on tuonut mukanaan uusia haasteita tietoturvan ja tietosuojan osalta. Tutkimusten mukaan asiantuntijoiden osaaminen ja säännölliset päivitykset ovat välttämättömiä ehtoja digitaalisten palvelujen turvalliseen käyttöön (Vehko, Kyytsönen & Wester, 2026). Myös ikääntyneiden kotipalveluissa teknologian hyödyntäminen on herättänyt keskustelua yksityisyydensuojan ja tietoturvan haasteista (Kuha, Xiong & Hammarén, 2023)."
+  ],
+  "sections": [
+    {
+      "heading": "Tietoturvan rakentaminen asiantuntijoiden toimesta",
+      "paragraphs": [
+        "Tietoturvan rakentaminen vaatii asiantuntijoiden aktiivista toimintaa ja säännöllisiä päivityksiä. Hyvinvointialueiden johtajien näkemykset osoittavat, että digitaalisten palvelujen turvallinen käyttö edellyttää jatkuvaa kehitystä ja osaamisen ylläpitoa (Vehko, Kyytsönen & Wester, 2026). Tämä on erityisen tärkeää sosiaali- ja terveydenhuollon alalla, jossa käsitellään herkkiä henkilötietoja."
+      ]
+    },
+    {
+      "heading": "Teknologian hyödyntämisen haasteet",
+      "paragraphs": [
+        "Ikääntyneiden kotipalveluissa teknologian hyödyntäminen on tuonut esiin yksityisyydensuojan ja tietoturvan haasteita. Johtajien näkemykset osoittavat, että teknologisten ratkaisujen hankkimatta jättämiseen liittyy useita tekijöitä, kuten resurssien puute ja osaamisen puuttuminen (Kuha, Xiong & Hammarén, 2023). Nämä haasteet korostavat tarvetta laadukkaalle tietoturvaratkaisulle, joka ottaa huomioon käyttäjien erityistarpeet."
+      ]
+    }
+  ],
+  "conclusion": [
+    "Pilvipalvelujen tietoturva on moniulotteinen haaste, joka vaatii jatkuvaa kehitystä ja asiantuntijoiden osaamista. Sosiaali- ja terveydenhuollon alalla tietoturvan ja tietosuojan rakentaminen on erityisen tärkeää, sillä alalla käsitellään herkkiä henkilötietoja. Jatkossa on tärkeää, että teknologian hyödyntäminen ja tietoturvan kehittäminen etenevät käsi kädessä."
+  ],
+  "references": [
+    {
+      "authors": [
+        "Kuha Suvi",
+        "Xiong Essi",
+        "Hammarén Mira",
+        "Ylisirniö Minna",
+        "Haverinen Jari",
+        "Suominen Jarno",
+        "Leikas Jaana",
+        "Kanste Outi"
+      ],
+      "title": "Teknologian hyödyntämiseen liittyvä yksityisyydensuoja, tietoturva ja -suoja ikääntyneiden kotipalveluissa: kyselytutkimus johtajille",
+      "year": 2023,
+      "url": "https://doi.org/10.23996/fjhw.127242",
+      "doi": "10.23996/fjhw.127242"
+    },
+    {
+      "authors": [
+        "Vehko Tuulikki",
+        "Kyytsönen Maiju",
+        "Wester Tuula",
+        "Taipale Antti-Olli",
+        "Mykkänen Juha"
+      ],
+      "title": "Tietoturva ja tietosuoja hyvinvointialueilla syksyllä 2025",
+      "year": 2026,
+      "url": "https://doi.org/10.23996/fjhw.178626",
+      "doi": "10.23996/fjhw.178626"
+    }
+  ]
+}
