@@ -1,0 +1,5 @@
+.env
+question.wav
+translation.wav
+__pycache__/
+.venv/
