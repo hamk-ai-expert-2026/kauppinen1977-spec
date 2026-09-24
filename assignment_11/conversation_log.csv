@@ -1,0 +1,10 @@
+question,stt_s,llm_s,tts_s,total_after_speech_s
+Testataan miten tämä toimii. Paljonko on viisi plus viisi?,2.29,1.49,3.22,7.0
+Tänään tehdään tekoälyharjoituksia ja huomenna palataan Azuren ja Tiskon pariin.,1.54,1.42,5.15,8.12
+Kerro minulle eilisen jääkiekkotuloksista.,0.89,1.33,3.17,5.39
+Mitä RBAC tekee Azuressa?,0.97,1.5,4.85,7.31
+Mikä on Entra ID?,0.75,1.41,5.49,7.65
+Mitä Resource Group tarkoittaa?,0.84,3.07,5.16,9.08
+Mitä eroa on virtuaalikoneella ja kontilla?,0.82,1.35,5.12,7.29
+Opeta ohjelma.,0.65,1.74,3.69,6.08
+Pyysin sinua lopettamaan ohjelman.,0.87,0.88,1.58,3.32
